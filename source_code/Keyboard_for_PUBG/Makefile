@@ -1,6 +1,6 @@
-#   Makefile for CH32V003A4M6
+#   Makefile for CH32V203F6P6
 #   Автор: Волков Олег
-#   Дата создания скрипта: 18.03.2025
+#   Дата создания скрипта: 18.04.2025
 #   GitHub: https://github.com/Solderingironspb
 #   Группа Вконтакте: https://vk.com/solderingiron.stm32
 #   YouTube: https://www.youtube.com/channel/UCzZKTNVpcMSALU57G1THoVw
